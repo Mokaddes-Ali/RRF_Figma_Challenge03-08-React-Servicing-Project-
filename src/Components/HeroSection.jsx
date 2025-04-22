@@ -1,11 +1,12 @@
 import React from "react";
-import image9 from "./image-9.png";
-import image10 from "./image-10.png";
+import image9 from "../assets/images/hero1.1.png";
+import image10 from "../assets/images/hero1.2.png";
 const HeroSection = () => {
   return (
-    <div>
-    <div className="relative w-[1170px] h-[436px]">
-      <div className="fixed w-[1170px] h-[436px] top-0 left-0">
+    <>
+    <div className="w-[1440px]">
+    <div className="flex mx-auto relative w-[1170px] h-[436px]">
+      <div className="w-[1170px] h-[436px] top-0 left-0">
         <div className="w-[388px] h-56 top-[105px] absolute left-0">
           <p className="absolute top-0 left-0 [font-family:'Bricolage_Grotesque-ExtraBold',Helvetica] font-normal text-black text-[44px] tracking-[0] leading-[normal]">
             <span className="font-extrabold">
@@ -47,6 +48,7 @@ const HeroSection = () => {
     </div>
       
     </div>
+    </>
   )
 }
 
