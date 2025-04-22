@@ -15,7 +15,7 @@ export const Footer = ({
 }) => {
   return (
     <div className="relative w-[1440px] h-[319px] bg-black">
-      <p className="w-[362px] top-[97px] left-[136px] text-xs leading-[normal] absolute [font-family:'Roboto-Regular',Helvetica] font-normal text-white tracking-[0]">
+      <p className="w-[362px] top-[97px] left-[136px] text-xs leading-[normal] font-roboto absolute font-normal text-white tracking-[0]">
         Lore Issue is simply dummy text of the printing and typesetting
         industry. Lore Issue has been the industry&#39;s standard dummy text
         ever since the 1500s, when an unknown printer took a galley of type and
@@ -23,45 +23,45 @@ export const Footer = ({
       </p>
 
       <div className="absolute w-[1176px] h-3 top-[295px] left-[136px]">
-        <div className="absolute top-0 left-0 [font-family:'Roboto-Regular',Helvetica] font-normal text-[#dd3142] text-[10px] tracking-[0] leading-[normal] whitespace-nowrap">
+        <div className="absolute top-0 left-0 font-roboto  font-normal text-[#dd3142] text-[10px] tracking-[0] leading-[normal] whitespace-nowrap">
           ©Copyright 2020 Techwero Systems.
         </div>
 
-        <div className="absolute top-0 left-[987px] [font-family:'Roboto-Regular',Helvetica] font-normal text-[#dd3142] text-[10px] tracking-[0] leading-[normal] whitespace-nowrap">
+        <div className="absolute top-0 left-[987px] font-roboto  font-normal text-[#dd3142] text-[10px] tracking-[0] leading-[normal] whitespace-nowrap">
           Term of Services
         </div>
 
-        <div className="absolute top-0 left-[1100px] [font-family:'Roboto-Regular',Helvetica] font-normal text-[#dd3142] text-[10px] tracking-[0] leading-[normal] whitespace-nowrap">
+        <div className="absolute top-0 left-[1100px] font-roboto  font-normal text-[#dd3142] text-[10px] tracking-[0] leading-[normal] whitespace-nowrap">
           Privacy &amp; policy
         </div>
       </div>
 
       <div className="absolute w-[163px] h-[218px] top-[31px] left-[612px]">
-        <div className="absolute top-0 left-px [font-family:'Roboto-Bold',Helvetica] font-bold text-[#dd3142] text-base tracking-[0] leading-[normal] whitespace-nowrap">
+        <div className="absolute top-0 left-px font-roboto  font-bold text-[#dd3142] text-base tracking-[0] leading-[normal] whitespace-nowrap">
           OUR SERVICES
         </div>
 
-        <div className="absolute top-[59px] left-0 [font-family:'Roboto-Regular',Helvetica] font-normal text-white text-xs tracking-[0] leading-[normal] whitespace-nowrap">
+        <div className="absolute top-[59px] left-0 font-roboto  font-normal text-white text-xs tracking-[0] leading-[normal] whitespace-nowrap">
           Plumber Service
         </div>
 
-        <div className="top-[88px] absolute left-0 [font-family:'Roboto-Regular',Helvetica] font-normal text-white text-xs tracking-[0] leading-[normal] whitespace-nowrap">
+        <div className="top-[88px] absolute left-0 font-roboto  font-normal text-white text-xs tracking-[0] leading-[normal] whitespace-nowrap">
           Bathroom Plumbing Service
         </div>
 
-        <div className="top-[117px] absolute left-0 [font-family:'Roboto-Regular',Helvetica] font-normal text-white text-xs tracking-[0] leading-[normal] whitespace-nowrap">
+        <div className="top-[117px] absolute left-0 font-roboto  font-normal text-white text-xs tracking-[0] leading-[normal] whitespace-nowrap">
           Kitchen Plumbing Service
         </div>
 
-        <div className="absolute top-[146px] left-0 [font-family:'Roboto-Regular',Helvetica] font-normal text-white text-xs tracking-[0] leading-[normal] whitespace-nowrap">
+        <div className="absolute top-[146px] left-0 font-roboto  font-normal text-white text-xs tracking-[0] leading-[normal] whitespace-nowrap">
           Roof Plumbing Service
         </div>
 
-        <div className="top-[175px] absolute left-0 [font-family:'Roboto-Regular',Helvetica] font-normal text-white text-xs tracking-[0] leading-[normal] whitespace-nowrap">
+        <div className="top-[175px] absolute left-0 font-roboto  font-normal text-white text-xs tracking-[0] leading-[normal] whitespace-nowrap">
           Bathroom Plumbing Service
         </div>
 
-        <div className="top-[204px] absolute left-0 [font-family:'Roboto-Regular',Helvetica] font-normal text-white text-xs tracking-[0] leading-[normal] whitespace-nowrap">
+        <div className="top-[204px] absolute left-0 font-roboto font-normal text-white text-xs tracking-[0] leading-[normal] whitespace-nowrap">
           Kitchen Plumbing Service
         </div>
 
@@ -97,12 +97,12 @@ export const Footer = ({
       </div>
 
       <div className="absolute w-[159px] h-[226px] top-[31px] left-[839px]">
-        <p className="absolute top-0 left-0 [font-family:'Roboto-Bold',Helvetica] font-bold text-[#dd3142] text-base tracking-[0] leading-[normal] whitespace-nowrap">
-          <span className="[font-family:'Roboto-Bold',Helvetica] font-bold text-[#dd3142] text-base tracking-[0]">
+        <p className="absolute top-0 left-0 font-roboto  font-bold text-[#dd3142] text-base tracking-[0] leading-[normal] whitespace-nowrap">
+          <span className="font-roboto  font-bold text-[#dd3142] text-base tracking-[0]">
             Contact
           </span>
 
-          <span className="[font-family:'Roboto-Bold',Helvetica] font-bold text-[#dd3142] text-base tracking-[0]">
+          <span className="font-roboto font-bold text-[#dd3142] text-base tracking-[0]">
             &nbsp;
           </span>
         </p>
@@ -113,8 +113,8 @@ export const Footer = ({
           src={vector2}
         />
 
-        <p className="absolute top-[63px] left-0 [font-family:'Roboto-Regular',Helvetica] font-normal text-white text-sm tracking-[0] leading-[normal]">
-          <span className="[font-family:'Roboto-Regular',Helvetica] font-normal text-white text-sm tracking-[0]">
+        <p className="absolute top-[63px] left-0 font-roboto  font-normal text-white text-sm tracking-[0] leading-[normal]">
+          <span className="font-roboto  font-normal text-white text-sm tracking-[0]">
             1800-9938-2839
             <br />
           </span>
@@ -122,8 +122,8 @@ export const Footer = ({
           <span className="text-xs">support@plumberpoint.com</span>
         </p>
 
-        <p className="absolute top-[131px] left-0 [font-family:'Roboto-Regular',Helvetica] font-normal text-white text-sm tracking-[0] leading-[normal]">
-          <span className="[font-family:'Roboto-Regular',Helvetica] font-normal text-white text-sm tracking-[0]">
+        <p className="absolute top-[131px] left-0 font-roboto font-normal text-white text-sm tracking-[0] leading-[normal]">
+          <span className="font-roboto  font-normal text-white text-sm tracking-[0]">
             A-507 Mandoli
             <br />
           </span>
@@ -131,8 +131,8 @@ export const Footer = ({
           <span className="text-xs">New Delhi, India</span>
         </p>
 
-        <p className="absolute top-[196px] left-0 [font-family:'Roboto-Regular',Helvetica] font-normal text-white text-sm tracking-[0] leading-[normal]">
-          <span className="[font-family:'Roboto-Regular',Helvetica] font-normal text-white text-sm tracking-[0]">
+        <p className="absolute top-[196px] left-0 font-roboto  font-normal text-white text-sm tracking-[0] leading-[normal]">
+          <span className="font-roboto  font-normal text-white text-sm tracking-[0]">
             Mon-Sat 9.00-15:00
             <br />
           </span>

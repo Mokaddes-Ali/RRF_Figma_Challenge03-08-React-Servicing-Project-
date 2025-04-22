@@ -7,9 +7,9 @@ function App() {
   return (
     <>
      <BrowserRouter>
-     <div className="">
+     {/* <div className="">
       <Header />
-     </div>
+     </div> */}
      <WebRoute />
      </BrowserRouter>
     </>
