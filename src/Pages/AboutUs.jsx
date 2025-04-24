@@ -1,11 +1,10 @@
 import React from 'react'
-import AboutPageTitle from '../Components/AboutPageTitle'
-import AboutPageText from '../Components/AboutPageText'
-import ServiceSection from '../Components/ServiceSection'
+import AboutPageTitle from '../Components/Frontend/AboutUs/AboutPageTitle'
+import AboutPageText from '../Components/Frontend/AboutUs/AboutPageText'
+import AboutService from '../Components/Frontend/AboutUs/AboutService'
 import TeamSection from '../Components/TeamSection'
 import Testimonial from '../Components/Testimonial'
-import BlogSection from '../Components/BlogSection'
-import AboutService from '../Components/AboutService'
+
 
 const AboutUs = () => {
   return (
@@ -15,7 +14,6 @@ const AboutUs = () => {
       <AboutService />
       <TeamSection />
       <Testimonial />
-      <BlogSection />
       
     </div>
   )

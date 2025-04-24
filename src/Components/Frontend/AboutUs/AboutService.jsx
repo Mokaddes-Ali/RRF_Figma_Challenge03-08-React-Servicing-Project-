@@ -1,5 +1,5 @@
 import React from 'react'
-import bg from "../assets/images/about-service.png";
+import bg from "../../../assets/images/about-service.png";
 
 const AboutService = () => {
   return (

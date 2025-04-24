@@ -1,5 +1,5 @@
 import React from 'react'
-import about from '../assets/images/welcome-bg.png';
+import about from '../../../assets/images/welcome-bg.png';
 
 const AboutCompany = () => {
   return (
