@@ -10,7 +10,7 @@ const Testimonial = () => {
   <img className="w-[1440px] h-80 left-0 top-[1px] absolute" src={testimonial} />
   <div className="w-[1440px] h-80 left-0 top-0 absolute opacity-70 bg-black"></div>
   <div className="w-52 h-9 left-[618px] top-[45px] absolute justify-start text-yellow-400 text-3xl font-medium font-['Roboto'] uppercase">Testimonial</div>
-  <div className="">
+  <div className="absolute top-[273.41px] left-[700px]">
  <svg xmlns="http://www.w3.org/2000/svg" width="37" height="7" viewBox="0 0 37 7" fill="none">
   <ellipse cx="3.00156" cy="3.44484" rx="3.00156" ry="3.03468" fill="#E2E2E2"/>
   <ellipse cx="13.0064" cy="3.44484" rx="3.00156" ry="3.03468" fill="#DD3142"/>

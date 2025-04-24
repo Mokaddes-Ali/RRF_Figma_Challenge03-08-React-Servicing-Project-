@@ -6,19 +6,25 @@ import ServiceSection from '../Components/ServiceSection'
 import Header from '../Components/Header'
 import AboutCompany from '../Components/AboutCompany'
 import Testimonial from '../Components/Testimonial'
+import TeamSection from '../Components/TeamSection'
+import PlumberPoints from '../Components/PlumberPoints'
+import OurCompany from '../Components/OurCompany'
 
 const Homepage = () => {
   return (
     <>
 
     <div className="">
-      {/* <Header /> */}
-      {/* <HeroSection /> */}
-     {/* <ServiceSection /> */}
-      {/* <AboutCompany />  */}
+      <Header />
+      <HeroSection />
+     <ServiceSection />
+      <AboutCompany /> 
+      <OurCompany />
+      <PlumberPoints />
+      <TeamSection />
       <Testimonial />
-      {/* <BlogSection />  */}
-      {/* <Footer />  */}
+      <BlogSection /> 
+      <Footer /> 
     </div>
       
     </>

@@ -7,18 +7,15 @@ const HeroSection = () => {
     <div className="w-[1440px]">
     <div className="flex mx-auto relative w-[1170px] h-[436px]">
       <div className="w-[1170px] h-[436px] top-0 left-0">
-        <div className="w-[388px] h-56 top-[105px] absolute left-0">
-          <p className="absolute top-0 left-0 [font-family:'Bricolage_Grotesque-ExtraBold',Helvetica] font-normal text-black text-[44px] tracking-[0] leading-[normal]">
-            <span className="font-extrabold">
-              Call us&nbsp;&nbsp;For Any <br />
-            </span>
+        <div className="w-[500px] h-56 top-[154px] absolute -left-0.5">
+        <p>
+          <span class="text-black font-bricolage text-[44px] font-extrabold uppercase leading-none not-italic">
+            Call us  For Any <br/></span>
+            <span class="text-black font-bricolage absolute top-[52px] text-[44px] font-medium uppercase leading-none not-italic">Plumbing Needs</span>
+        </p>
 
-            <span className="[font-family:'Bricolage_Grotesque-Medium',Helvetica] font-medium">
-              Plumbing Needs
-            </span>
-          </p>
 
-          <div className="top-[123px] [font-family:'Bricolage_Grotesque-96ptExtraBold',Helvetica] font-extrabold text-black text-[34px] tracking-[0] leading-[normal] absolute left-0">
+          <div className="top-[123px] font-bricolage font-extrabold text-black text-[34px] tracking-[0] leading-[normal] absolute left-0">
             +1800-9938-2839
           </div>
 
@@ -31,7 +28,7 @@ const HeroSection = () => {
           </button>
         </div>
 
-        <div className="absolute w-[658px] h-[436px] top-0 left-[512px]">
+        <div className="absolute w-[658px] h-[436px] top-[48px] left-[512px]">
           <img
             className="w-[302px] h-[436px] top-0 left-0 absolute object-cover"
             alt="Image"

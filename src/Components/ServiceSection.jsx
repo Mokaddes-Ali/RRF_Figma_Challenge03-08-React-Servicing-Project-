@@ -9,7 +9,7 @@ import vector from "../assets/images/Line.png";
 const ServiceSection = () => {
   return (
     // Main container with fixed width and height
-    <div className="relative w-[1440px] h-[297px]">
+    <div className="relative w-[1440px] top-[44px] h-[297px]">
       {/* Background section in red */}
       <div className="w-[1440px] h-[297px] top-0 left-0 bg-[#dd3142]">
 
