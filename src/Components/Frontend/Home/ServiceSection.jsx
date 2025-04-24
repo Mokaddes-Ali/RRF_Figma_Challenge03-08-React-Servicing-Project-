@@ -1,10 +1,8 @@
 import React from "react";
-import icon1 from "../assets/images/icon1.png";
-import icon2 from "../assets/images/icon2.png";
-import icon3 from "../assets/images/icon3.png";
-import line2 from "../assets/images/Line.png";
-import line from "../assets/images/Line.png";
-import vector from "../assets/images/Line.png";
+import icon1 from "../../../assets/images/icon1.png";
+import icon2 from "../../../assets/images/icon2.png";
+import icon3 from "../../../assets/images/icon3.png";
+import line from "../../../assets/images/Line.png";
 
 const ServiceSection = () => {
   return (

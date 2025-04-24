@@ -1,9 +1,9 @@
 import React from 'react'
-import line from "../assets/images/footerline.png";
-import logo from "../assets/images/footerlogo.png";
-import rectangle from "../assets/images/footer.png";
-import rectangle1 from "../assets/images/footer.png";
-import rectangle2 from "../assets/images/footer.png";
+import line from "../../../assets/images/footerline.png";
+import logo from "../../../assets/images/footerlogo.png";
+import rectangle from "../../../assets/images/footer.png";
+import rectangle1 from "../../../assets/images/footer.png";
+import rectangle2 from "../../../assets/images/footer.png";
 
 const Footer = () => {
   return (

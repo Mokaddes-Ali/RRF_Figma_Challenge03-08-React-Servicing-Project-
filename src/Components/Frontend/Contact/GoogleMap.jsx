@@ -1,18 +1,19 @@
 import React from "react";
-import vector from "./vector.svg";
+import map from "../../../assets/images/map.png"
+
 const GoogleMap = () => {
   return (
-    <div className="relative w-[1440px] h-[420px]">
-      <div className="fixed w-[1440px] h-[420px] top-0 left-0 bg-[#f9f9f9]">
+    <div className="relative w-[1440px] h-[420px] pt-[58px] mb-[55px]">
+      <div className=" w-[1440px] h-[420px] top-0 left-0 bg-[#f9f9f9]">
         <div className="absolute w-[661px] h-[354px] top-[33px] left-[643px] bg-[url(/screenshot-2020-07-17-at-10-39-1.png)] bg-cover bg-[50%_50%]">
           <img
-            className="absolute w-6 h-[39px] top-[151px] left-[356px]"
-            alt="Vector"
-            src={vector}
+            className="absolute w-[661px] h-[354px] top-[60px] -left-[2px]"
+            alt="map"
+            src={map}
           />
         </div>
 
-        <div className="absolute w-[381px] h-[317px] top-[49px] left-[135px]">
+        <div className="absolute w-[381px] h-[317px] top-[111px] left-[132.5px]">
           <div className="absolute w-[212px] top-0 left-0 [font-family:'Roboto-Bold',Helvetica] font-bold text-[#dd3142] text-lg tracking-[0] leading-[normal]">
             Contact Us
           </div>

@@ -1,6 +1,6 @@
 import React from "react";
-import image9 from "../assets/images/hero1.1.png";
-import image10 from "../assets/images/hero1.2.png";
+import image9 from "../../../assets/images/hero1.1.png";
+import image10 from "../../../assets/images/hero1.2.png";
 const HeroSection = () => {
   return (
     <>

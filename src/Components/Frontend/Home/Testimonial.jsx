@@ -1,5 +1,5 @@
 import React from 'react'
-import testimonial from '../assets/images/testimonial-bg.png'
+import testimonial from '../../../assets/images/testimonial-bg.png'
 
 const Testimonial = () => {
   return (

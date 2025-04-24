@@ -22,7 +22,7 @@ const ServiceTitle = () => {
               </div>
     
               {/* Description */}
-              <p className="absolute w-[432px] top-[191px] left-[135px] font-roboto font-normal text-white text-sm leading-normal">
+              <p className="absolute w-[432px] top-[191px] left-[135px] font-roboto font-normal text-white text-sm leading-[17px]">
               Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
               when an unknown printer took a galley of type and scrambled it to make a type specimen book
               </p>

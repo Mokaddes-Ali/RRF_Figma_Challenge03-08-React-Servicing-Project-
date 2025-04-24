@@ -1,5 +1,5 @@
 import React from 'react'
-import welcome from '../assets/images/home-background.png'
+import welcome from '../../../assets/images/home-background.png'
 
 const PlumberPoints = () => {
   return (

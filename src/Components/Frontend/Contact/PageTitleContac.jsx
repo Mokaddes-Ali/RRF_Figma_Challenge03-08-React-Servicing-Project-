@@ -3,11 +3,11 @@ import React from "react";
 const PageTitleContac= () => {
   return (
     <div className="w-[1440px] h-[304px]">
-      <div className="fixed w-[1444px] h-[304px] top-0 left-0">
-        <div className="relative w-[1440px] h-[304px] bg-[url(/image-4.png)] bg-cover bg-[50%_50%]">
+      <div className="w-[1444px] h-[304px] top-0 left-0">
+        <div className="relative w-[1440px] h-[304px] bg-[url(/src/assets/images/about-bg-im.png)] bg-cover bg-[50%_50%]">
           <div className="absolute w-[1440px] h-[304px] top-0 left-0 [background:linear-gradient(90deg,rgba(221,49,66,1)_0%,rgba(196,196,196,0)_100%)]" />
 
-          <div className="absolute top-[101px] left-[135px] [font-family:'Roboto-Black',Helvetica] font-black text-[#eeff06] text-[44px] tracking-[0] leading-[normal] whitespace-nowrap">
+          <div className="absolute top-[101px] left-[135px] font-roboto font-black text-[#eeff06] text-[44px] tracking-[0] leading-[normal] whitespace-nowrap">
             CONTACT US
           </div>
 

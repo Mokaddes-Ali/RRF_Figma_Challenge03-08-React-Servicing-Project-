@@ -19,17 +19,17 @@ const OurServicesSection = () => {
     <>
     <div className="w-[1440px] pb-44">
     <div className="">
-        <h1 className="absolute top-[366px] left-[610px] text-[#0E0E0E] font-roboto text-[30px] not-italic font-medium leading-none uppercase my-2">
-        Our Projects
+        <h1 className="absolute top-[419px] left-[614px] text-[#0E0E0E] font-roboto text-[30px] not-italic font-medium leading-none uppercase my-2">
+        Our Services
          </h1>
-         <p className=" absolute top-[420px] left-[326px] max-w-[785px] text-center text-[#6D6D6D] font-roboto text-base not-italic font-normal leading-[133.5%]">
+         <p className=" absolute top-[473px] left-[328px] max-w-[785px] text-center text-[#6D6D6D] font-roboto text-base not-italic font-normal leading-[133.5%]">
          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when
           an unknown printer took a galley of type and scrambled it to make a type specimen book.
      </p>
 
     </div>
     <div className="relative w-[1171px] h-[884px]">
-      <div className="mx-auto w-[1171px] absolute h-[884px] top-40 left-36">
+      <div className="mx-auto w-[1171px] absolute h-[884px] top-[224px] left-[135px]">
         <div className="top-0 left-0 absolute w-[284px] h-[280px]">
           <div className="relative w-[280px] h-[280px] bg-white rounded-[5px] shadow-[0px_4px_24px_#0000000d]">
             <div className="absolute top-[145px] left-[85px] [font-family:'Roboto-Medium',Helvetica] font-medium text-black text-sm tracking-[0] leading-[normal] whitespace-nowrap">

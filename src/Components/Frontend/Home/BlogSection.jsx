@@ -1,7 +1,7 @@
 import React from 'react'
-import image1 from "../assets/images/blog1.png"
-import image2 from "../assets/images/blog2.png"
-import image3 from "../assets/images/blog3.png"
+import image1 from "../../../assets/images/blog1.png"
+import image2 from "../../../assets/images/blog2.png"
+import image3 from "../../../assets/images/blog3.png"
 
 const BlogSection = () => {
   return (
