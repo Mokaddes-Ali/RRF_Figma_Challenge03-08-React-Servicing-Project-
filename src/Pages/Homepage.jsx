@@ -14,19 +14,17 @@ const Homepage = () => {
   return (
     <>
 
-    <div className="">
-      <Header />
-      <HeroSection />
-     <ServiceSection />
-      <AboutCompany /> 
-      <OurCompany />
-      <PlumberPoints />
-      <TeamSection />
-      <Testimonial />
-      <BlogSection /> 
-      <Footer /> 
-    </div>
-      
+      <div className="">
+        <HeroSection />
+        <ServiceSection />
+        <AboutCompany />
+        <OurCompany />
+        <PlumberPoints />
+        <TeamSection />
+        <Testimonial />
+        <BlogSection />
+      </div>
+
     </>
   )
 }

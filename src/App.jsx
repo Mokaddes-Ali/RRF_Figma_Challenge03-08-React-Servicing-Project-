@@ -2,15 +2,19 @@ import React from 'react'
 import { BrowserRouter } from 'react-router'
 import Header from './Components/Header'
 import WebRoute from './Routes/WebRoute'
+import Footer from './Components/Footer'
 
 function App() {
   return (
     <>
      <BrowserRouter>
-     {/* <div className="">
+     <div className="">
       <Header />
-     </div> */}
+     </div>
      <WebRoute />
+     <div className="">
+      <Footer />
+     </div>
      </BrowserRouter>
     </>
   )
