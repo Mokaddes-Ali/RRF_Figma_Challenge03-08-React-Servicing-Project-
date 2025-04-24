@@ -1,25 +1,35 @@
 import React from 'react';
-import group2 from "./group-2.png";
-import group3 from "./group-3.png";
-import group4 from "./group-4.png";
-import group2742 from "./group-274-2.png";
-import group2743 from "./group-274-3.png";
-import group274 from "./group-274.png";
-import group from "./group.png";
-import icon2 from "./icon-2.png";
-import icon from "./icon.png";
-import image from "./image.png";
-import image1 from "./image.svg";
-import vector2 from "./vector-2.svg";
-import vector3 from "./vector-3.svg";
-import vector from "./vector.svg";
+import group2 from "../../../assets/images/hand.png";
+import group3 from "../../../assets/images/tab.png";
+import group4 from "../../../assets/images/rose.png";
+import group2742 from "../../../assets/images/rose.png";
+import group2743 from "../../../assets/images/rose.png";
+import group274 from "../../../assets/images/rose.png";
+import group from "../../../assets/images/rose.png";
+import icon2 from "../../../assets/images/rose.png";
+import icon from "../../../assets/images/rose.png";
+import image from "../../../assets/images/rose.png";
+import image1 from "../../../assets/images/tab.png";
+import vector2 from "../../../assets/images/tab.png";
+import vector3 from "../../../assets/images/tab.png";
+import vector from "../../../assets/images/tab.png";
 
 const OurServicesSection = () => {
   return (
     <>
+    <div className="w-[1440px] pb-44">
     <div className="">
+        <h1 className="absolute top-[366px] left-[610px] text-[#0E0E0E] font-roboto text-[30px] not-italic font-medium leading-none uppercase my-2">
+        Our Projects
+         </h1>
+         <p className=" absolute top-[420px] left-[326px] max-w-[785px] text-center text-[#6D6D6D] font-roboto text-base not-italic font-normal leading-[133.5%]">
+         Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when
+          an unknown printer took a galley of type and scrambled it to make a type specimen book.
+     </p>
+
+    </div>
     <div className="relative w-[1171px] h-[884px]">
-      <div className="fixed w-[1171px] h-[884px] top-0 left-0">
+      <div className="mx-auto w-[1171px] absolute h-[884px] top-40 left-36">
         <div className="top-0 left-0 absolute w-[284px] h-[280px]">
           <div className="relative w-[280px] h-[280px] bg-white rounded-[5px] shadow-[0px_4px_24px_#0000000d]">
             <div className="absolute top-[145px] left-[85px] [font-family:'Roboto-Medium',Helvetica] font-medium text-black text-sm tracking-[0] leading-[normal] whitespace-nowrap">
